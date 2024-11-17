@@ -13,7 +13,6 @@
 - :trophy: Finalista de las `Olimpiadas de Programación de Ceibal`.
 - :technologist: Me encanta programar, especialmente buscar los `Problemas` en los códigos.
 - :computer: Soy un programador dedicado a los siguientes lenguajes: `Java`, `Html`, `Css`, `Sql`, `JavaScript`.
-- :student: Actualmente estoy estudiando `Computer Science` and `Software Engineering`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 
 ## Mis redes sociales
